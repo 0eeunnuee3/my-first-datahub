@@ -16,7 +16,7 @@ this is my **first** app on streamlit.
 print("hello")
 ```
 
-| 이름 | 언어 | 상태 |
+| 할일 | 목록 | 상태 |
 | :--- | :---: | ---: |
-| Gemini | Python | 완료 |
-| User | Markdown | 진행중 |
+| homework | arts and bigdata | 완료 |
+| lecture | arts and bigdata | 진행중 |
