@@ -15,3 +15,8 @@ this is my **first** app on streamlit.
 #code block with language
 print("hello")
 ```
+
+| 이름 | 언어 | 상태 |
+| :--- | :---: | ---: |
+| Gemini | Python | 완료 |
+| User | Markdown | 진행중 |
