@@ -1,4 +1,4 @@
-%%writefile app.py
 import streamlit as st
+
 st.title("Hello, SKKU! 🎓")
-st.write("My first web app")
+st.write("My first web app!")
